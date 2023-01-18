@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-Console.WriteLine("Введите номер четверти от 1 до 4: ");
+Console.WriteLine("Ввод номера четверти от 1 до 4: ");
 
 int num = new Random().Next(1, 5);
 
